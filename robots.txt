@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodenuwasusa.github.io/sitemap.xml
